@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+
+}
+
+.loginCard {
+    background-color: lightgray;
+    margin-top: 50px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+form.loginInputForm {
+    display: block;
+    margin: auto;
+     width: 70%;
+    margin-top: 15px;
+}
+
+input.loginSignIn {
+    background-color: red;
+    color: white;
+    margin-bottom: 10px;
+}
+a.loginNewAccount {
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
